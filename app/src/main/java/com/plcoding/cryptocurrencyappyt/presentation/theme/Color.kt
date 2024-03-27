@@ -1,4 +1,4 @@
-package com.plcoding.cryptocurrencyappyt.ui.theme
+package com.plcoding.cryptocurrencyappyt.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
